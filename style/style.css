@@ -1,0 +1,24 @@
+.nav-link:hover {
+  background-color: #661a82;
+}
+
+.carousel-item{
+  width: 100%;
+  height: 550px;
+}
+.footer{
+  width: 100%;
+  font-size: 0px;
+  background-color: bg-primary;
+  color: white;
+  text-align: center;
+}
+
+.jumbotron-fluid{
+
+  height: 5px;
+}
+
+.card-text {
+  text-align: justify;
+}
